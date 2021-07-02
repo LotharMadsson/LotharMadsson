@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LotharMadsson
+- 👀 I’m interested in Space Industry such as SpaceX and NASA
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on foss
+- 📫 How to reach me -> discord Lothar#6880
